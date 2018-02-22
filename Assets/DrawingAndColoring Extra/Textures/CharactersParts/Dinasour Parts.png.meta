@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: 2affa05ac01c37c4ba724bd7fc97cc3e
+timeCreated: 1513216379
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Dinasour Parts_0
+    21300002: Dinasour Parts_1
+    21300004: Dinasour Parts_2
+    21300006: Dinasour Parts_3
+    21300008: Dinasour Parts_4
+    21300010: Dinasour Parts_6
+    21300012: Dinasour Parts_7
+    21300014: Dinasour Parts_8
+    21300016: Dinasour Parts_13
+    21300018: Dinasour Parts_14
+    21300020: Dinasour Parts_15
+    21300022: Dinasour Parts_17
+    21300024: Dinasour Parts_18
+    21300026: Dinasour Parts_19
+    21300028: Dinasour Parts_20
+    21300030: Dinasour Parts_22
+    21300032: Dinasour Parts_23
+    21300034: Dinasour Parts_24
+    21300036: Dinasour Parts_26
+    21300038: Dinasour Parts_30
+    21300040: Dinasour Parts_32
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dinasour Parts_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1617
+        width: 939
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinasour Parts_2
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 2155
+        width: 125
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinasour Parts_4
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2134
+        width: 506
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinasour Parts_6
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 2076
+        width: 290
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinasour Parts_7
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1965
+        width: 126
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinasour Parts_8
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1960
+        width: 184
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinasour Parts_13
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1780
+        width: 208
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinasour Parts_14
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 1833
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinasour Parts_15
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 1840
+        width: 76
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinasour Parts_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 653
+        width: 620
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinasour Parts_18
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1190
+        width: 92
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinasour Parts_19
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 466
+        width: 343
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinasour Parts_20
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 844
+        width: 224
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinasour Parts_22
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 830
+        width: 49
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinasour Parts_23
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 874
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinasour Parts_24
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 707
+        width: 214
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinasour Parts_26
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 62
+        width: 689
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinasour Parts_30
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 29
+        width: 223
+        height: 496
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dinasour Parts_32
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 0
+        width: 225
+        height: 113
+      alignment: 9
+      pivot: {x: 0.4455719, y: 0.50000095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
