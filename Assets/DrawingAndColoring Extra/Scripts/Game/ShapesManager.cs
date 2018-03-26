@@ -8,21 +8,21 @@ namespace IndieStudio.DrawingAndColoring.Logic
 {
 	public class ShapesManager : MonoBehaviour
 	{
-			/// <summary>
-			/// The shapes list.
-			/// </summary>
-			public List<Shape> shapes = new List<Shape> ();
+        /// <summary>
+        /// 形状列表。
+        /// </summary>
+        public List<Shape> shapes = new List<Shape> ();
 
-			/// <summary>
-			/// The last selected shape.
-			/// </summary>
-			[HideInInspector]
+        /// <summary>
+        /// 最后选定的形状。
+        /// </summary>
+        [HideInInspector]
 			public int lastSelectedShape;
 
-			/// <summary>
-			/// The instance of this class.
-			/// </summary>
-			public static ShapesManager instance;
+        /// <summary>
+        /// 这个类的实例。
+        /// </summary>
+        public static ShapesManager instance;
 
 			void Awake ()
 			{

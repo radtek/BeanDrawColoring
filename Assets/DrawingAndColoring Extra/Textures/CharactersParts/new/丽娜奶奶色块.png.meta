@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: fef7f94c52588bf4fada1788124e8c53
+timeCreated: 1521796371
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u4E3D\u5A1C\u5976\u5976_0"
+    21300002: "\u4E3D\u5A1C\u5976\u5976_1"
+    21300004: "\u4E3D\u5A1C\u5976\u5976_7"
+    21300006: "\u4E3D\u5A1C\u5976\u5976_8"
+    21300008: "\u4E3D\u5A1C\u5976\u5976_9"
+    21300010: "\u4E3D\u5A1C\u5976\u5976_10"
+    21300012: "\u4E3D\u5A1C\u5976\u5976_12"
+    21300014: "\u4E3D\u5A1C\u5976\u5976_14"
+    21300016: "\u4E3D\u5A1C\u5976\u5976_15"
+    21300018: "\u4E3D\u5A1C\u5976\u5976_16"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u4E3D\u5A1C\u5976\u5976_0"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 687
+        width: 377
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u4E3D\u5A1C\u5976\u5976_1"
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 672
+        width: 322
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u4E3D\u5A1C\u5976\u5976_7"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 533
+        width: 302
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u4E3D\u5A1C\u5976\u5976_8"
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 509
+        width: 313
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u4E3D\u5A1C\u5976\u5976_9"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 240
+        width: 260
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u4E3D\u5A1C\u5976\u5976_10"
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 347
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u4E3D\u5A1C\u5976\u5976_12"
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 341
+        width: 266
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u4E3D\u5A1C\u5976\u5976_14"
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 190
+        width: 102
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u4E3D\u5A1C\u5976\u5976_15"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 31
+        width: 158
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u4E3D\u5A1C\u5976\u5976_16"
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 77
+        width: 107
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

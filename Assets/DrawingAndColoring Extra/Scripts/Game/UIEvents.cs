@@ -7,7 +7,7 @@ using System.IO;
 namespace IndieStudio.DrawingAndColoring.Logic
 {
     /// <summary>
-    /// User interface events for (buttons,sliders,...etc).
+    ///(按钮、滑块等)的用户界面事件。
     /// </summary>
     [DisallowMultipleComponent]
     public class UIEvents : MonoBehaviour
